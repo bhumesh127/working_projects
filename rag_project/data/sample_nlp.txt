@@ -1,0 +1,29 @@
+Introduction to Natural Language Processing
+
+Natural Language Processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data.
+
+The goal is a computer capable of understanding the contents of documents, including the contextual nuances of the language within them. The technology can then accurately extract information and insights contained in the documents, as well as categorize and organize the documents themselves.
+
+History of NLP
+
+The history of NLP generally starts in the 1950s, although work can be found from earlier periods. In 1950, Alan Turing published an article titled "Computing Machinery and Intelligence" which proposed what is now called the Turing test as a criterion of intelligence, a task that involves the automated interpretation and generation of natural language.
+
+Key NLP Tasks
+
+Named Entity Recognition (NER) involves identifying and classifying named entities in text into predefined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, and percentages.
+
+Sentiment Analysis is the use of NLP to identify and extract subjective information from source materials. The goal is to determine the attitude of a writer or speaker with respect to a topic or the overall contextual polarity of a document.
+
+Machine Translation automatically translates text or speech from one language to another. Deep learning has been particularly successful in this domain, with the introduction of neural machine translation systems achieving near-human accuracy.
+
+Text Summarization involves shortening long pieces of text to create a coherent and fluent summary having only the main points outlined in the document.
+
+Transformers and BERT
+
+Transformers, introduced in the paper "Attention is All You Need" (2017), revolutionized NLP. The attention mechanism allows the model to weigh the importance of different words when processing each word.
+
+BERT (Bidirectional Encoder Representations from Transformers) was introduced by Google in 2018. BERT pre-trains deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers.
+
+Applications of NLP
+
+Search engines use NLP to understand user queries and return relevant results. Chatbots and virtual assistants like Siri, Alexa, and Google Assistant rely heavily on NLP. Spam filters use NLP to distinguish between legitimate emails and spam. Grammar correction tools like Grammarly analyze text and suggest improvements.
